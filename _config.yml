@@ -6,9 +6,9 @@ color:
   saturation: 0.1958223395049572
   rhythmicContrast: 0.7590759790036827
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#000000'
+    - '#001E3A'
+    - '#F5FEFE'
+    - '#638CA6'
+    - '#9FB8BD'
 name: Hemmerlé design
