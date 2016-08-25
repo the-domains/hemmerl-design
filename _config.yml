@@ -1,4 +1,3 @@
-layout_spectrum: 0.07423129864037037
 typography_spectrum: 0.4315821095369756
 color:
   brandStrength: 0.4004238529596478
@@ -11,4 +10,6 @@ color:
     - '#F5FEFE'
     - '#638CA6'
     - '#9FB8BD'
+layout_spectrum: 0.07423129864037037
 name: Hemmerlé design
+title: design for the senses
